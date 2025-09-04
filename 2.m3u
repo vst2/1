@@ -63,19 +63,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1,СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1,Перец
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png",Перец
 http://178.124.152.238:8088/perec
 
-#EXTINF:-1,Че
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt4.png",Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
-#EXTINF:-1,Ю
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 #EXTINF:-1,Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1,SHOT TV
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png",SHOT TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
