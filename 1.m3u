@@ -1,140 +1,139 @@
 #EXTM3U
 
-#EXTINF:-1,Первый канал
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2867.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1,Россия 1
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-
-#EXTINF:-1,НТВ Сериал
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
-
-#EXTINF:-1,НТВ Хит
-http://cdn2.ntv.ru/th_hit/playlist.m3u8
-
-#EXTINF:-1,Победа
-https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
-
-#EXTINF:-1,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-
-#EXTINF:-1,Россия К
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826.png",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
-#EXTINF:-1,Россия 24
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2702.png",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1,Звезда
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3435.png",НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3616.png",Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2622.png",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
-#EXTINF:-1,ОТР
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2106.png",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1,Рен ТВ
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3142.png",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
-#EXTINF:-1,Мир
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mir.png",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1,СТС
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1870.png",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1,CTC LOVE
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1766.png",CTC LOVE
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1,ТВ Центр HD
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3185.png",ТВ Центр HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1,Пятый канал
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472.png",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1,Домашний
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1820.png",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
-#EXTINF:-1,ТВ3
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv3-ru.png",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 
-#EXTINF:-1,Пятница
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/piatnica.png",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 
-#EXTINF:-1,СУББОТА!
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1,Перец
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png",Перец
 http://178.124.152.238:8088/perec
 
-#EXTINF:-1,Че
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1041.png",Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
-#EXTINF:-1,Ю
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1,Kino 24
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1,SHOT TV
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png",SHOT TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 
-#EXTINF:-1,Start World HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
 http://178.217.72.66:8080/START_World/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Star Cinema HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema HD
 http://77.235.1.19:8000/play/a043/index.m3u8
 
-#EXTINF:-1,Star Family HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/star-family.png",Star Family HD
 http://77.235.1.19:8000/play/a042/index.m3u8
 
-#EXTINF:-1,Viju TV1000
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8
 
-#EXTINF:-1,Viju TV1000 Action
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8
 
-#EXTINF:-1,RED THRILLER
+#EXTINF:-1 tvg-logo="https://promusicianhub.com/wp-content/uploads/2020/12/triller-review-768x432.jpg",RED THRILLER
 http://95.85.109.219:7000/play/a06h
 
-#EXTINF:-1,Киноужас
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873.png",Киноужас
 http://178.217.72.66:8080/kinoujas/index.m3u8
 
-#EXTINF:-1,НСТ
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
 
-#EXTINF:-1,SeleCaoTV 1
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
-#EXTINF:-1,SeleCaoTV 2
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
-#EXTINF:-1,2x2
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1,Комедия
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russkaya-komedia.png",Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
 
-#EXTINF:-1,Кино 1 Int.
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png",Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,.red
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony.png",.red
 http://178.124.152.238:8088/sony
 
-#EXTINF:-1,.sci-fi
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-scifi.png",.sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
-#EXTINF:-1,Amedia 1
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
 
-#EXTINF:-1,Amedia 2
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
 
-#EXTINF:-1,Amedia Hit
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://85.117.61.97:8000/play/a015/index.m3u8
 
 #EXTINF:-1,Фильмы | VHS TV
-https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2f11f150e011
-
+https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
