@@ -3,52 +3,52 @@
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://dvb.by/sources/logos/2867.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1https://dvb.by/sources/logos/2415.png,Россия 1
+#EXTINF:-1 https://dvb.by/sources/logos/2415.png,Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1,НТВ
+#EXTINF:-1 https://dvb.by/sources/logos/1525.png,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
-#EXTINF:-1,НТВ Сериал
+#EXTINF:-1 https://dvb.by/sources/logos/2317.png,НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 
-#EXTINF:-1,НТВ Хит
+#EXTINF:-1 https://dvb.by/sources/logos/3435.png,НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
-#EXTINF:-1,Победа
+#EXTINF:-1 https://dvb.by/sources/logos/3616.png,Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1,ТНТ
+#EXTINF:-1 https://dvb.by/sources/logos/2547.png,ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 
-#EXTINF:-1https://dvb.by/sources/logos/1826.png,Россия К
+#EXTINF:-1 https://dvb.by/sources/logos/1826.png,Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
-#EXTINF:-1https://dvb.by/sources/logos/2702.png,Россия 24
+#EXTINF:-1 https://dvb.by/sources/logos/2702.png,Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 
-#EXTINF:-1,ОТР
+#EXTINF:-1 https://dvb.by/sources/logos/2106.png,ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1,Рен ТВ
+#EXTINF:-1 https://dvb.by/sources/logos/3142.png,Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1,СТС
+#EXTINF:-1 https://dvb.by/sources/logos/1870.png,СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1,CTC LOVE
+#EXTINF:-1 https://dvb.by/sources/logos/1766.png,CTC LOVE
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1,ТВ Центр HD
+#EXTINF:-1 https://dvb.by/sources/logos/3185.png,ТВ Центр HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1,Пятый канал
+#EXTINF:-1 https://dvb.by/sources/logos/1472.png,Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1,Домашний
