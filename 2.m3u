@@ -1,0 +1,140 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:-1,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1,НТВ Сериал
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1,НТВ Хит
+http://cdn2.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1,Победа
+https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1,ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1,Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1,Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+
+#EXTINF:-1,Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+
+#EXTINF:-1,ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
+#EXTINF:-1,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1,Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:-1,СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:-1,CTC LOVE
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+
+#EXTINF:-1,ТВ Центр HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+
+#EXTINF:-1,Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1,Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1,ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:-1,Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1,СУББОТА!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1,Перец
+http://178.124.152.238:8088/perec
+
+#EXTINF:-1,Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+#EXTINF:-1,Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+#EXTINF:-1,Kino 24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1,SHOT TV
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+
+#EXTINF:-1,Start World HD
+http://178.217.72.66:8080/START_World/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Cinema HD
+http://77.235.1.19:8000/play/a043/index.m3u8
+
+#EXTINF:-1,Star Family HD
+http://77.235.1.19:8000/play/a042/index.m3u8
+
+#EXTINF:-1,Viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+
+#EXTINF:-1,Viju TV1000 Action
+http://178.134.1.158:8081/tv1000action/index.m3u8
+
+#EXTINF:-1,RED THRILLER
+http://95.85.109.219:7000/play/a06h
+
+#EXTINF:-1,Киноужас
+http://178.217.72.66:8080/kinoujas/index.m3u8
+
+#EXTINF:-1,НСТ
+http://178.217.72.66:8080/NSTV/index.m3u8
+
+#EXTINF:-1,SeleCaoTV 1
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+
+#EXTINF:-1,SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+
+#EXTINF:-1,2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1,Комедия
+http://178.217.72.66:8080/Komediya/index.m3u8
+
+#EXTINF:-1,Кино 1 Int.
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,.red
+http://178.124.152.238:8088/sony
+
+#EXTINF:-1,.sci-fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+
+#EXTINF:-1,Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+
+#EXTINF:-1,Amedia 2
+http://sc.id-tv.kz/A2.m3u8
+
+#EXTINF:-1,Amedia Hit
+http://85.117.61.97:8000/play/a015/index.m3u8
+
+#EXTINF:-1,Фильмы | VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2f11f150e011
+
