@@ -6,16 +6,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 tvg-id="rossia 1" tvg-logo="https://dvb.by/sources/logos/2415.png",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
-#EXTINF:-1 tvg-id="ntv" https://dvb.by/sources/logos/1525.png,НТВ
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://dvb.by/sources/logos/1525.png,НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
-#EXTINF:-1 tvg-id="ntv serial" https://dvb.by/sources/logos/2317.png,НТВ Сериал
+#EXTINF:-1 tvg-id="ntv serial" tvg-logo="https://dvb.by/sources/logos/2317.png,НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ntv hit" https://dvb.by/sources/logos/3435.png,НТВ Хит
+#EXTINF:-1 tvg-id="ntv hit" tvg-logo="https://dvb.by/sources/logos/3435.png,НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
-#EXTINF:-1 https://dvb.by/sources/logos/3616.png,Победа
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3616.png,Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 https://dvb.by/sources/logos/2547.png,ТНТ
