@@ -87,10 +87,10 @@ http://77.235.1.19:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/star-family.png",Star Family HD
 http://77.235.1.19:8000/play/a042/index.m3u8
 
-#EXTINF:-1,Viju TV1000
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8
 
-#EXTINF:-1,Viju TV1000 Action
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8
 
 #EXTINF:-1,RED THRILLER
