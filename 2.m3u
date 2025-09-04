@@ -72,7 +72,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1,Kino 24
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png",SHOT TV
@@ -120,10 +120,10 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,.red
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony.png",.red
 http://178.124.152.238:8088/sony
 
-#EXTINF:-1,.sci-fi
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-scifi.png",.sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
