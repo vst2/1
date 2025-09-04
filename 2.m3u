@@ -93,7 +93,7 @@ http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8
 
-#EXTINF:-1,RED THRILLER
+#EXTINF:-1 tvg-logo="https://promusicianhub.com/wp-content/uploads/2020/12/triller-review-768x432.jpg",RED THRILLER
 http://95.85.109.219:7000/play/a06h
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873.png",Киноужас
