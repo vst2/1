@@ -117,7 +117,7 @@ http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:-1,Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1,Мосфильм. Золотая коллекция
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,.red
@@ -126,13 +126,13 @@ http://178.124.152.238:8088/sony
 #EXTINF:-1,.sci-fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
-#EXTINF:-1,Amedia 1
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
 
-#EXTINF:-1,Amedia 2
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
 
-#EXTINF:-1,Amedia Hit
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://85.117.61.97:8000/play/a015/index.m3u8
 
 #EXTINF:-1,Фильмы | VHS TV
