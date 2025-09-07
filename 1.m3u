@@ -114,6 +114,9 @@ https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3587.png",Nickelodeon
+https://server.musical.uz/tv/nick_web/index.m3u8?token=7afd4cfbbbe00652429e65c121ab577f11fcf158-9487c1230119eda181d2dd3c1916d8fe-1757237365-1757226565&remote=31.41.58.22
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/russkaya-komedia.png",Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
 
