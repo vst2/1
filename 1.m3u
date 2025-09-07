@@ -117,6 +117,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3587.png",Nickelodeon
 https://server.musical.uz/tv/nick_web/index.m3u8?token=7afd4cfbbbe00652429e65c121ab577f11fcf158-9487c1230119eda181d2dd3c1916d8fe-1757237365-1757226565&remote=31.41.58.22
 
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2215.png",Disney
+https://server.musical.uz/tv/dsn_web/index.m3u8?token=248054af96aa5fe321f8736291ae9084168b5fdd-06f0d9002a8f33a3006141f8b98209cb-1757237634-1757226834&remote=31.41.58.229
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/russkaya-komedia.png",Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
 
