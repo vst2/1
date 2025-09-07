@@ -144,7 +144,7 @@ http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://85.117.61.97:8000/play/a015/index.m3u8
 
-#EXTINF:-1,Фильмы | VHS TV
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1810.png",Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1156.png",Матч Боец
