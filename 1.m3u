@@ -146,3 +146,6 @@ http://85.117.61.97:8000/play/a015/index.m3u8
 
 #EXTINF:-1,Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1156.png",Матч Боец
+https://server.musical.uz/tv/match-boess/index.m3u8?token=ddab2bab20cf16436f472d2ef8becc43f37c8224-50a2be56e4e3e0a9d0b6eb3462a9ee1e-1757237874-1757227074&remote=31.41.58.229
