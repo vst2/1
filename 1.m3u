@@ -75,9 +75,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png",SHOT TV
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World HD
 http://178.217.72.66:8080/START_World/tracks-v1a1/mono.m3u8
 
@@ -102,9 +99,6 @@ http://178.217.72.66:8080/kinoujas/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://smotrettv.com/uploads/posts/2024-04/1712852577_1704023709_start-triumph.jpg",Страшное HD
-https://server1.musical.uz/strashnoe_hd/index.m3u8?token=c9c9fc79a2bfb616f34530a0db5a016efff8452d-18ddb1002b1496ea6426218bbf1faa4d-1757234547-1757223747&remote=31.41.58.229
-
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
@@ -113,12 +107,6 @@ https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3587.png",Nickelodeon
-https://server.musical.uz/tv/nick_web/index.m3u8?token=7afd4cfbbbe00652429e65c121ab577f11fcf158-9487c1230119eda181d2dd3c1916d8fe-1757237365-1757226565&remote=31.41.58.22
-
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2215.png",Disney
-https://server.musical.uz/tv/dsn_web/index.m3u8?token=248054af96aa5fe321f8736291ae9084168b5fdd-06f0d9002a8f33a3006141f8b98209cb-1757237634-1757226834&remote=31.41.58.229
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/russkaya-komedia.png",Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
@@ -146,6 +134,3 @@ http://85.117.61.97:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1810.png",Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
-
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1156.png",Матч Боец
-https://server.musical.uz/tv/match-boess/index.m3u8?token=ddab2bab20cf16436f472d2ef8becc43f37c8224-50a2be56e4e3e0a9d0b6eb3462a9ee1e-1757237874-1757227074&remote=31.41.58.229
