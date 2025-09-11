@@ -126,7 +126,7 @@ https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinopokaz.png",КИНОПОКАЗ HD
 http://dmi3y-tv.ru/hls/CH_KINOPOKAZHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tricolor.ru/upload/medialibrary/18a/18abddde8dacf42df2e4a439f5359db2.jpg",КИНОПРЕМИУМ HD
+#EXTINF:-1 tvg-logo="https://tvprogviewer.ru/images/thumbs/0000242_premialnoe-hd_220.png",Премиальное HD
 http://dmi3y-tv.ru/hls/CH_KINOPREMIUMHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://rutv.aws-static-hosting.com/streams/komedijnoe-hd-orig.png",КОМЕДИЙНОЕ HD
