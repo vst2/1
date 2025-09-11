@@ -114,6 +114,15 @@ https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 2
 https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
 
+#EXTINF:-1,КИНОПОКАЗ HD
+http://dmi3y-tv.ru/hls/CH_KINOPOKAZHD.m3u8
+
+#EXTINF:-1,КИНОПРЕМИУМ HD
+http://dmi3y-tv.ru/hls/CH_KINOPREMIUMHD.m3u8
+
+#EXTINF:-1,КОМЕДИЙНОЕ HD
+http://dmi3y-tv.ru/hls/CH_KOMEDIYNOEHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
