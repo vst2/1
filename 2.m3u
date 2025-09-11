@@ -140,3 +140,14 @@ http://85.117.61.97:8000/play/a015/index.m3u8
 
 #EXTINF:-1,Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
+
+#EXTINF:-1,FAN
+http://dmi3y-tv.ru/hls/CH_FAN.m3u8
+
+#EXTINF:-1,Шокирующее HD
+http://dmi3y-tv.ru/hls/CH_SHOKIRUYUSHEEHD.m3u8
+
+#EXTINF:-1,БЛОКБАСТЕР HD
+http://dmi3y-tv.ru/hls/CH_BLOKBASTERHD.m3u8
+
+
