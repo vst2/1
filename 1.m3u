@@ -105,7 +105,7 @@ http://dmi3y-tv.ru/hls/CH_SHOKIRUYUSHEEHD.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN
 http://dmi3y-tv.ru/hls/CH_FAN.m3u8
 
-#EXTINF:-1,БЛОКБАСТЕР HD
+#EXTINF:-1 tvg-logo="https://dantser.ru/wp-content/uploads/2017/03/blockbuster.jpg",БЛОКБАСТЕР HD
 http://dmi3y-tv.ru/hls/CH_BLOKBASTERHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
