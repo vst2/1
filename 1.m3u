@@ -108,7 +108,7 @@ http://178.217.72.66:8080/kinoujas/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
 
-#EXTINF:-1 tvg-logo=" https://er-com.net/wp-content/uploads/2023/10/402h402_scream.jpg",Scream
+#EXTINF:-1 tvg-logo="https://er-com.net/wp-content/uploads/2023/10/402h402_scream.jpg",Scream
 http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee.png",Шокирующее HD
