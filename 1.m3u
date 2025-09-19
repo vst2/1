@@ -162,5 +162,8 @@ http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 
+#EXTINF:-1,Amedia Premium
+http://93.125.121.61:8383/play/Intelsat85k812
+
 #EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/user/3b/32/3b327f01ae205c399ec6ba468ef50c0b.jpg",Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
