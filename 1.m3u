@@ -81,6 +81,9 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-world.png",Start World
+http://178.217.72.67:8080/START_World/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-air.png",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
@@ -89,9 +92,6 @@ http://194.32.242.245/tv1000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://194.32.242.245/tv1000action/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://promusicianhub.com/wp-content/uploads/2020/12/triller-review-768x432.jpg",RED THRILLER
-http://95.85.109.219:7000/play/a06h
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
