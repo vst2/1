@@ -87,29 +87,21 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://194.32.242.245/tv1000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/scream.png",Scream
-http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
-
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee.png",Шокирующее HD 
-http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-
-#EXTINF:-1 tvg-logo="https://dantser.ru/wp-content/uploads/2017/03/blockbuster.jpg",БЛОКБАСТЕР HD
-http://stream-msk-10.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
-
-#EXTINF:-1 tvg-logo="https://dbtv.ru/upload/icons/ostrosiuzhetnoe-hd.png",Остросюжетное HD
-https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
 
 #EXTINF:-1,Киноужас
 http://193.33.88.172/kinoujas/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Киноужас SD
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
+http://sc.id-tv.kz/A2.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-premium.png",Amedia Premium
+http://93.125.121.61:8383/play/Intelsat85k812
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -126,17 +118,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/mosfilm.png",Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
-http://sc.id-tv.kz/A1.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
-http://sc.id-tv.kz/A2.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-premium.png",Amedia Premium
-http://93.125.121.61:8383/play/Intelsat85k812
 
 #EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/user/3b/32/3b327f01ae205c399ec6ba468ef50c0b.jpg",Фильмы | VHS TV
 https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2
