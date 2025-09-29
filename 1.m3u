@@ -85,14 +85,10 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
-http://178.134.1.158:8081/tv1000/index.m3u8
+http://194.32.242.245/tv1000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8
-
-#EXTINF:-1, Киноужасы
-http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg2NzExODAsImlhdCI6MTc1ODU4NDc4MCwiY2lkIjo2LCJ1aWQiOjk0NzA2OTAzNywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.3_ebA5NrbQtEzuVUmTgqQnGQrHd9XVo3wKGkJClGUwk&offset=3
-
 
 #EXTINF:-1 tvg-logo="https://promusicianhub.com/wp-content/uploads/2020/12/triller-review-768x432.jpg",RED THRILLER
 http://95.85.109.219:7000/play/a06h
