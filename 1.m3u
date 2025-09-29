@@ -87,10 +87,6 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://194.32.242.245/tv1000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN
-http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1OTExMTIxMywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTA2NDEzLCJzZXNzaW9uX2lkIjoiMmU0Zjg3NDZjYzJhNmY4MDM4MTYyODg2Nzk3MjI0OGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.DM4P-gphldliPg37QcOalWsdeR8BHKIvplFoJCrvGU8
-
-
 #EXTINF:-1,Киноужас
 http://193.33.88.172/kinoujas/tracks-v1a1/mono.m3u8
 
