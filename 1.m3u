@@ -88,25 +88,25 @@ http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
 #EXTINF:-1,.Sci-Fi
 http://94.232.127.28:8080/sony-scifi/index.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ
+#EXTINF:-1,Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas", Киноужас
+#EXTINF:-1,Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
-#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe", Комедийное HD
+#EXTINF:-1,Комедийное HD
 http://188.190.222.53/Kinopokaz_HD2/index.m3u8
 
 
-#EXTINF:-1 group-title="Кино", НСТ
+#EXTINF:-1,НСТ
 http://194.32.242.245/nst/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Кино", Остросюжетное
+#EXTINF:-1,Остросюжетное
 http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
 
-#EXTINF:-1 group-title="Кино", FAN
+#EXTINF:-1,FAN
 http://178.217.72.72/fan/index.m3u8
 
 
