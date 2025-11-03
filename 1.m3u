@@ -91,6 +91,8 @@ http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia-hit.png",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png",Кино 1 Int.
+http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
