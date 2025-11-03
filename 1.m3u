@@ -90,22 +90,7 @@ http://94.232.127.28:8080/sony-scifi/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ HD
-http://178.217.72.72/kinopokazhd/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера HD
-http://87.76.32.36:8001/kinopremyerahd
-#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie", Киносвидание
-http://195.158.223.132:8008/Kinosvidanie
-#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья
-http://194.32.242.245/kinosemya/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья HD
-http://194.32.242.245/kinosemyahd/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinoseria", Киносерия
-http://195.64.140.147:10048/48
-#EXTINF:-1 group-title="Кино" tvg-id="kinoseria", Киносерия HD
-https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит
