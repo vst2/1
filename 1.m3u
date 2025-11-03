@@ -118,22 +118,10 @@ http://46.8.46.14/FOX/index.m3u8
 
 #EXTINF:-1 group-title="Кино", FX Life
 http://94.232.127.28:8080/foxlife/index.m3u8
-#EXTINF:-1 group-title="Кино", Go3 Films HD
-http://94.232.127.28:8080/tv1000premium/index.m3u8
-#EXTINF:-1 group-title="Кино", Hollywood
-http://193.25.8.59:8000/interaz
-#EXTINF:-1 group-title="Кино", Hollywood HD
-http://194.32.242.245/hollywoodhd/index.m3u8
-#EXTINF:-1 group-title="Кино", Kino24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Кино", Movie Classic
-http://195.64.140.147:10061/61
-#EXTINF:-1 group-title="Кино", Plan_B HD
-http://195.64.140.147:10082/82
-#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
-https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
-#EXTINF:-1 group-title="Кино", Saga TV ~
+
+#EXTINF:-1 group-title="Кино", Saga TV 
 http://178.212.71.253:8001/play/144/index.m3u8
+
 #EXTINF:-1 group-title="Кино", Star Cinema HD
 http://178.217.72.72/Star_Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema-eu" audio-track="rus", Star Cinema EU HD
