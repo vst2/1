@@ -93,14 +93,10 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas", Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит
-http://195.64.140.147:10046/46
-#EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит HD
-http://195.158.223.132:8008/Kinohit
+
 #EXTINF:-1 group-title="Кино" tvg-id="komedijnoe", Комедийное HD
 http://188.190.222.53/Kinopokaz_HD2/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia", Комедия
-http://178.217.72.72/Komediya/index.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino", Любимое кино
 http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 #EXTINF:-1 group-title="Кино", Мир сериала
