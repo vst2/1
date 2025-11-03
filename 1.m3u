@@ -125,6 +125,12 @@ http://87.246.54.249:8085/Viju_Premiere/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sapfir.png",Сапфир
+http://158.160.149.81:8080/8191/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvxxi.png",ТВ-21
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
