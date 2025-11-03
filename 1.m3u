@@ -84,6 +84,10 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/start-air.png",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema.png",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/timeless-dizi.png",Dizi
+http://194.158.222.36:6086
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
