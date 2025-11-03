@@ -106,16 +106,24 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://178.217.72.66:8080/TV_1000/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
 http://178.217.72.66:8080/TV_1000_Action/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/viju-tv1000-romantica.png",Viju TV1000 romantica
 http://77.235.1.19:8000/play/a05p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy.png",Viju+ comedy HD
 http://87.246.54.249:8085/Viju_Comedy/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-megahit.png",Viju+ megahit HD
 http://87.246.54.249:8085/Viju_Megahit/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-premiere.png",Viju+ premiere HD
 http://87.246.54.249:8085/Viju_Premiere/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
+http://178.217.72.66:8080/NSTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
