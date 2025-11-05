@@ -117,7 +117,7 @@ http://188.190.222.53/FilmBOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX
 http://46.8.46.14/FOX/index.m3u8
 
-#EXTINF:-1,FX Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FX_Life_Logo_2023.svg/1200px-FX_Life_Logo_2023.svg.png",FX Life
 http://94.232.127.28:8080/foxlife/index.m3u8
 
 #EXTINF:-1,Saga TV 
