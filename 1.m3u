@@ -169,3 +169,41 @@ http://195.64.140.147:10149/149
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
+#EXTINF:-1,Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+
+#EXTINF:-1 group-title="Детям", Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Gulli Girl
+http://46.8.46.14/Gulli/index.m3u8
+
+#EXTINF:-1 group-title="Детям", JimJam
+http://178.217.72.72/JimJam/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Nickelodeon HD
+http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="Детям", Nick Jr.
+http://46.8.46.14/nickjr/index.m3u8
+
+#EXTINF:-1 group-title="Детям", NickToons
+http://94.232.127.28:8080/nicktoons/index.m3u8
+
+#EXTINF:-1 group-title="Детям", TiJi
+http://188.190.222.53/TiJi/index.m3u8
