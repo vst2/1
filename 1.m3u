@@ -160,11 +160,11 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 
 
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 1
-https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6433-3330-4136-a231-363163643334/National-Geographic-.png", National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",SeleCaoTV 2
-https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/47/3c/0f/473c0fc27fa98aa257399c0d0075fec1.jpg", National Geographic Wild
+http://195.64.140.147:10149/149
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
