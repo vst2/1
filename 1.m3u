@@ -83,7 +83,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1,.Red
+#EXTINF:-1 tvg-logo="https://www.ph4.ru/DL/LOGO/d/domain_red.gif",.Red
 http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,.Sci-Fi
