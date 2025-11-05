@@ -124,7 +124,7 @@ http://94.232.127.28:8080/foxlife/index.m3u8
 http://178.212.71.253:8001/play/144/index.m3u8
 
 
-#EXTINF:-1,Viasat Kino World
+#EXTINF:-1 tvg-logo="https://media.bite.lt/@bite-lv/sites/default/files/2025-03/Viasat-Kino.png",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 
 #EXTINF:-1,viju TV1000
