@@ -92,7 +92,7 @@ http://94.232.127.28:8080/sony-scifi/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 
-#EXTINF:-1,Киноужас
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
 #EXTINF:-1,Комедийное HD
