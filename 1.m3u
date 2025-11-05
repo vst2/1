@@ -114,7 +114,7 @@ http://178.217.72.72/fan/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
 
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX
 http://46.8.46.14/FOX/index.m3u8
 
 #EXTINF:-1,FX Life
