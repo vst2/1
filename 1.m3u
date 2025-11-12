@@ -110,8 +110,6 @@ http://194.32.242.245/nst/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png",Остросюжетное
 http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN
-http://178.217.72.72/fan/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN HD
 http://46.8.46.14/FAN/index.m3u8
