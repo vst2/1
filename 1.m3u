@@ -83,14 +83,11 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony.png",.Red
-http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-turbo.png",.Black
 http://95.66.188.74/.black/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-scifi.png,.Sci-Fi
-http://94.232.127.28:8080/sony-scifi/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
@@ -117,11 +114,7 @@ http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX
-http://46.8.46.14/FOX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/FX_Life_Logo_2023.svg/1200px-FX_Life_Logo_2023.svg.png",FX Life
-http://94.232.127.28:8080/foxlife/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/94/36/55/429.png",Saga TV 
 http://178.212.71.253:8001/play/144/index.m3u8
