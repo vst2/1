@@ -123,8 +123,12 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.bite.lt/@bite-lv/sites/default/files/2025-03/Viasat-Kino.png",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",viju TV1000
-http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы",Viju TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кино и сериалы",Кино без границ
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы",Кино ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",viju+ Экшен
 http://46.8.46.14/actiontv/index.m3u8
