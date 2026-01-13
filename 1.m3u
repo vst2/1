@@ -95,7 +95,7 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY УЖАСТИК HD
+#EXTINF:-1,УЖАСТИК HD
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 tvg-logo="https://tvprogviewer.ru/images/thumbs/0000123_komedijnoe-hd_220.png",Комедийное HD
@@ -126,11 +126,11 @@ http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.bite.lt/@bite-lv/sites/default/files/2025-03/Viasat-Kino.png",Viasat Kino World
 http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кино и сериалы",Viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
-#EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png" group-title="Кино и сериалы",Кино без границ
+#EXTINF:-1 tvg-id="kino-bez-granic" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино без границ
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кино и сериалы",Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",viju+ Экшен
@@ -153,9 +153,9 @@ http://194.32.242.245/vippremiere/index.m3u8
 http://194.158.222.36:6086
 
 
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="Кино и сериалы",Amedia 1
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="Кино и сериалы",Amedia 2
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
