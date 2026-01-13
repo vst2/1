@@ -145,4 +145,5 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
 
-
+#EXTINF:-1, НСТ
+http://194.32.242.245/nst/index.m3u8
