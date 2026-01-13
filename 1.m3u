@@ -63,9 +63,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png",Перец
-http://178.124.152.238:8088/perec
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1,Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
@@ -130,14 +136,7 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
-#EXTINF:-1,Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
 
 
