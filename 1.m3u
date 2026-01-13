@@ -107,15 +107,10 @@ http://178.212.71.253:8000/play/100/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png",Остросюжетное
-http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN HD
 http://31.148.48.15/Fan/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png",FilmBox
-http://188.190.222.53/FilmBOX/index.m3u8
 
 
 
@@ -123,8 +118,7 @@ http://188.190.222.53/FilmBOX/index.m3u8
 http://178.212.71.253:8001/play/144/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://media.bite.lt/@bite-lv/sites/default/files/2025-03/Viasat-Kino.png",Viasat Kino World
-http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
 http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
