@@ -88,15 +88,6 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-turbo.png",.Black
-http://95.66.188.74/.black/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinopokaz.png",Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
@@ -106,29 +97,11 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
-http://178.212.71.253:8000/play/100/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN HD
-http://31.148.48.15/Fan/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/94/36/55/429.png",Saga TV 
 http://178.212.71.253:8001/play/144/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
-http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
- 
-#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
