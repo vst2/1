@@ -21,8 +21,6 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-xit.png",НТВ Хит
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3616.png",Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -129,19 +127,5 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="no_epg_cinema",Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema",Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema",Retrovision Motor
-http://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema",Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema",Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.hhcdn.ru/employer-logo/446267.png",Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 
 
