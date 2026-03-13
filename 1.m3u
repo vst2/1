@@ -111,7 +111,8 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
 http://87.120.142.11:18000/STSLove
 
-
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png",Видеокассета HD
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
