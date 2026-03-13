@@ -100,21 +100,13 @@ http://193.25.8.59:8000/nst
 
 #EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png",Start Air
-http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png",Viju TV1000
-http://176.118.197.125/viju-TV1000/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png",Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+
+
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
 http://87.120.142.11:18000/STSLove
 
-
-
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/94/36/55/429.png",Saga TV 
-http://178.212.71.253:8001/play/144/index.m3u8
 
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
