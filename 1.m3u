@@ -87,7 +87,8 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Кино и сериалы" ,FAN
+http://31.210.208.171:8080/fan/ind
 
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
