@@ -64,6 +64,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kabardino-balkaria.png",Кабардино-Балкария
+http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
