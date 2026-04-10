@@ -71,7 +71,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/match-arena.png",Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
-#EXTINF:-1,Матч! Планета
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/34/e1e.png",Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
 
