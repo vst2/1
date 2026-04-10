@@ -64,9 +64,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kabardino-balkaria.png",Кабардино-Балкария
-http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -88,17 +85,6 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoact.png",Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoazia.png",Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png",Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinomist.png",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
@@ -107,6 +93,17 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoact.png",КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoazia.png",КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png",КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinomist.png",КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
