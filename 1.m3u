@@ -135,4 +135,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="pervy-pl2" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" group-title="Общественные", Первый канал +2
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="pervy-pl3" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" group-title="Общественные", Первый канал +3
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 tvg-id="pervy-pl4" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" group-title="Общественные", Первый канал +4
+http://cef23ac9.rossteleccom.net/iptv/HR5L3HVVC7ZQSVB2DUVSQUH7/6021/index.m3u8
+#EXTINF:-1 tvg-id="pervy-pl5" tvg-logo="https://iptvx.one/picons/pervy-pl5.png" group-title="Общественные", Первый канал +5
