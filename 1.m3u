@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#PLAYLIST:IPTVru
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://dvb.by/sources/logos/2867.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
