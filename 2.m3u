@@ -24,6 +24,8 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 
 
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pl1" tvg-logo="https://iptvx.one/picons/ntv-pl1.png", НТВ (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="ntv-pl2" tvg-logo="https://iptvx.one/picons/ntv-pl2.png", НТВ (+2)
