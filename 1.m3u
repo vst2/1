@@ -30,7 +30,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3142.png",Рен ТВ
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/18.png",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/mir.png",Мир
