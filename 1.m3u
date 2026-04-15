@@ -70,35 +70,17 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/34/e1e.png",Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/sarafan.png",Сарафан
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/teledom.png",Теледом HD
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-24.png",Kino 24
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema.png",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoact.png",КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoazia.png",КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinoklas.png",КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cityedem-kinomist.png",КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-
 
 
 
