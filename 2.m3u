@@ -32,14 +32,12 @@ https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/vari
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1826.png",Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png",Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2702.png",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
