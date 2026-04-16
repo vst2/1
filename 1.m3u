@@ -70,9 +70,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvprogviewer.ru/images/thumbs/0000100_mat-arena_220.png",Матч! Арена
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/34/e1e.png",Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
@@ -99,15 +96,7 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://193.25.8.59:8000/nst
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black
-http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony.png",.red
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony-scifi.png",.sci-fi
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png",FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
@@ -130,8 +119,6 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6005.png",Видеокассета HD
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
