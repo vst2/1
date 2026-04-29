@@ -127,4 +127,9 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png",В мире животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
