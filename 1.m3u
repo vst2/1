@@ -95,6 +95,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://ott.watch/stream/6HAPZWKKG3/68.m3u8
 
 
+#EXTINF:-1,Scream
+https://vsd134.okcdn.ru/hls/9013984168559_21980.m3u8/sig/jxMVFtfOECQ/expires/1783519799882/srcIp/195.208.196.52/urls/185.226.52.93/clientType/0/srcAg/CHROME/mid/10390524927599/9013984168559_lowest/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
@@ -137,5 +139,4 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,Scream
-https://vsd134.okcdn.ru/hls/9013984168559_21980.m3u8/sig/jxMVFtfOECQ/expires/1783519799882/srcIp/195.208.196.52/urls/185.226.52.93/clientType/0/srcAg/CHROME/mid/10390524927599/9013984168559_lowest/index.m3u8
+
