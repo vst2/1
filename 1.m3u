@@ -76,19 +76,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/sarafan.png",Сарафан
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema.png",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png",Кино ТВ
+#EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/1620.png",Комедия
+http://ott.watch/stream/6HAPZWKKG3/68.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
-#EXTINF:-1 tvg-logo="https://image.emojisky.com/234/315234-middle.png",УЖАСТИК HD
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://193.25.8.59:8000/nst
@@ -100,8 +99,7 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="pro100" tvg-logo="https://iptvx.one/picons/pro100.png",Pro100
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
 
 
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
