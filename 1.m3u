@@ -66,6 +66,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
