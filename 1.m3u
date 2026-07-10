@@ -73,12 +73,6 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/34/e1e.png",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
@@ -91,12 +85,9 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1620.png",Комедия
-http://ott.watch/stream/6HAPZWKKG3/68.m3u8
 
 
-#EXTINF:-1,Scream
-https://vsd134.okcdn.ru/hls/9013984168559_21980.m3u8/sig/jxMVFtfOECQ/expires/1783519799882/srcIp/195.208.196.52/urls/185.226.52.93/clientType/0/srcAg/CHROME/mid/10390524927599/9013984168559_lowest/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
@@ -121,10 +112,6 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Evrokino/index.m3u8
 
 
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
