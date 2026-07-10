@@ -123,9 +123,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png",В мире животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
