@@ -101,7 +101,11 @@ http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
@@ -133,28 +137,6 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Cinema
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6105.png",Fresh Cinema
-http://ott.watch/stream/6HAPZWKKG3/423.m3u8
 
-#EXTINF:-1 tvg-id="6711" tvg-logo="http://epg.one/img2/6711.png" group-title="кино" ,Fresh Comedy
-http://ott.watch/stream/6HAPZWKKG3/426.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6712.png",Fresh Premiere
-http://ott.watch/stream/6HAPZWKKG3/424.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6713.png",Fresh Family
-http://ott.watch/stream/6HAPZWKKG3/427.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6714.png",Fresh Rating
-http://ott.watch/stream/6HAPZWKKG3/422.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6715.png",Fresh VHS
-http://ott.watch/stream/6HAPZWKKG3/428.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6716.png",Fresh Fantastic
-http://ott.watch/stream/6HAPZWKKG3/429.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/6722.png",Fresh Thriller
-http://ott.watch/stream/6HAPZWKKG3/434.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/8764.png",VeleS Страшное
-http://starcius-cinema.com/10326/index.m3u8?token=010101010101
