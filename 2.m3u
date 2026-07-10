@@ -69,15 +69,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/34/e1e.png",Матч! Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -91,8 +84,7 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1620.png",Комедия
-http://ott.watch/stream/6HAPZWKKG3/68.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
