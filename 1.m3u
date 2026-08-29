@@ -72,8 +72,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
@@ -88,7 +87,8 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
 
 
@@ -101,11 +101,7 @@ http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Cinema
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
