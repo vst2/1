@@ -66,11 +66,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png",СУББОТА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -83,50 +86,3 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png",Дом Кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезон
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-detektiv.png",Русский детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-roman.png",Русский роман
-http://46.32.176.50/russkiyroman/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sovkino.png",Советское кино
-http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/chestny-detektiv.png",Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/doktor.png",Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png",Загородная Жизнь
-http://185.57.68.33/40/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zagorodny.png",Загородный
-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muzhskoy.png",Мужской
-https://flussonic.mkpnet.ru/tv-55c94e838b306657/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/oxota-i-rybalka.png",Охота и рыбалка
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png", Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=QzqPo5cuxaeOJDvPy-nBvg&e=2070623488&scheme=https
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov-hd.png", Охотник и рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/617.png",Точка Отрыва
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/usadba.png",Усадьба
-https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
