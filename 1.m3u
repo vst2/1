@@ -92,8 +92,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
 
 
-#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/images/chhnebbir4ssk120gif0.png",Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
@@ -101,7 +100,11 @@ http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
+http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
