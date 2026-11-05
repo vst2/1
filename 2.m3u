@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
