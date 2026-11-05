@@ -87,8 +87,7 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="http://epg.one/img2/1037.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1tvg-logo="https://iptvx.one/picons/star-cinema.png",Star Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+
 
 
 
