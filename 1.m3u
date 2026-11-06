@@ -101,6 +101,10 @@ https://tvcdnpotok.com/AZTspTG8HtANCQDW9h4Xlw/216/1793983419/index.m3u8
 https://tvcdnpotok.com/cctPbhoyFtuUI3gLWOviFQ/2036/1793983689/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://telik.live/images/marvel-tv.png",MARVEL
+https://tvcdnpotok.com/utJXXuVL0BYOCvVU1aiFLA/2050/1793983778/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
