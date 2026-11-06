@@ -88,6 +88,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://telik.live/images/shokiruyushchee.png",Шокирующее ТВ
 https://tvcdnpotok.com/L7aoWbsfbFuvFd6J1iP-PQ/169/1793983140/index.m3u8
 
@@ -97,12 +98,9 @@ https://vsd131.okcdn.ru/hls/7900013267574_7942.m3u8/sig/hWZThy9rZLY/expires/1794
 #EXTINF:-1 tvg-logo="https://telik.live/images/strashnoe-hd.png",Страшное
 https://tvcdnpotok.com/AZTspTG8HtANCQDW9h4Xlw/216/1793983419/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/uzhasy-hd.png",Ужасы HD
-https://tvcdnpotok.com/cctPbhoyFtuUI3gLWOviFQ/2036/1793983689/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://telik.live/images/marvel-tv.png",MARVEL
 https://tvcdnpotok.com/utJXXuVL0BYOCvVU1aiFLA/2050/1793983778/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
