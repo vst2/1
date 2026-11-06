@@ -45,9 +45,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1766.png",CTC LOVE
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-int.png",СТС Int.
-http://158.101.222.193:88/georgia_play.php?id=ctctv
-
 #EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3185.png",ТВ Центр HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
@@ -88,47 +85,26 @@ http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png",Amedia 1
-http://mfe02.cliptv.az/dash/A1_SDoioioi65.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia2.png",Amedia 2
-http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
-
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png",В мире животных
