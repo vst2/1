@@ -138,26 +138,24 @@ https://tvcdnpotok.com/HGkAa5dkRwFUxe1hoyWcuQ/578/1793984910/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-1.png",Кинозал 1
+#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-1.png",viju Мегахит
 https://tvcdnpotok.com/RSIlMhSSzIZ-lEDLCBwJrw/141/1793985521/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-2.png",Кинозал 2
+#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-2.png",viju Комедия
 https://tvcdnpotok.com/nx6rz_lqWFxs7NSzmO7d7Q/142/1793985700/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-3.png",Кинозал 3
+#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-3.png",viju Премиум
 https://tvcdnpotok.com/aMCNIiM4Op93-qw8FmBtIg/140/1793985726/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-4.png",Кинозал 4
+#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-4.png",viju Экшен
 https://tvcdnpotok.com/r6Fdmwi-f-AP54Fd6W-3ww/138/1793985762/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-5.png",Кинозал 5
+#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-5.png",viju TV1000
 https://tvcdnpotok.com/Z7Noks41eVKpevAZiOzzSg/137/1793985791/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-6.png",Кинозал 6
-https://tvcdnpotok.com/604iv-boGGhy7F_XfauL5g/2033/1793985815/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozal-7.png",Кинозал 7
-https://tvcdnpotok.com/kza9CxoXwxFsO-U8x_ST9w/139/1793985843/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
