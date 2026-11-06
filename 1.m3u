@@ -133,7 +133,8 @@ https://tvcdnpotok.com/utJXXuVL0BYOCvVU1aiFLA/2050/1793983778/index.m3u8
 #EXTINF:-1 tvg-logo="https://telik.live/images/ostrosyuzhetnoe-hd.png",Остросюжетное HD
 https://tvcdnpotok.com/HGkAa5dkRwFUxe1hoyWcuQ/578/1793984910/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://telik.live/images/blockbaster_hd.png",Блокбастер HD
+https://tvcdnpotok.com/HVXGznbZzsDn6-OHJDkUfw/249/1793986475/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
