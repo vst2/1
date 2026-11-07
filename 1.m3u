@@ -89,81 +89,14 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/nst/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/shokiruyushchee.png",Шокирующее ТВ
-https://tvcdnpotok.com/L7aoWbsfbFuvFd6J1iP-PQ/169/1793983140/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/strah_hd.png",Страх
-https://vsd131.okcdn.ru/hls/7900013267574_7942.m3u8/sig/hWZThy9rZLY/expires/1794051711078/srcIp/31.41.59.233/urls/178.237.23.49/clientType/0/srcAg/CHROME/mid/9287921114742/7900013267574_lowest/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/strashnoe-hd.png",Страшное
-https://tvcdnpotok.com/AZTspTG8HtANCQDW9h4Xlw/216/1793983419/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/cineman-uzhasy.png",CineMan Ужасы
-https://tvcdnpotok.com/GL-uGdbCC55SSrcGUlMY0g/2056/1793983998/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/cineman-triller.png",CineMan Триллер
-https://tvcdnpotok.com/2dyhgTZV6FJAA2jGjU7ewQ/2052/1793984201/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/fresh-horror.png",Fresh Хоррор
-https://tvcdnpotok.com/lIP_HXfThsmCeq0GDwKBlw/2067/1793984393/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/fresh-thriller.png",Fresh Триллер
-https://tvcdnpotok.com/x9RRsGsAT9GEn6mlJPwQRg/2070/1793984466/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/mm-uzhasy.png",ММ Ужасы
 https://vsd177.okcdn.ru/hls/7900013267574.m3u8/sig/ZaSiw8-ceXg/expires/1794052978838/srcIp/31.41.59.233/urls/176.112.172.106/clientType/0/srcAg/CHROME/mid/9287921114742/7900013267574_high/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/uzhasy-hd.png",Ужасы HD
-https://tvcdnpotok.com/MyRMyO55JaKyWRgLDzj8ag/2036/1793985172/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telik.live/images/scream.png",Scream
-https://tvcdnpotok.com/a8NJxuc3zQCilDbKD4oWXg/247/1793985084/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/kinozals/fresh-fantastic.png",Fresh Фантастика
-https://tvcdnpotok.com/g4sYzxOKUXW4hf9WsDaxvw/2066/1793984280/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/marvel-tv.png",MARVEL
-https://tvcdnpotok.com/utJXXuVL0BYOCvVU1aiFLA/2050/1793983778/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/premialnoe-hd.png",Премиальное HD
-https://tvcdnpotok.com/ZSaskIfweYsqlNHxJuDRzg/134/1793986556/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/hit.png",ХИТ HD
-https://tvcdnpotok.com/Jln93xDjQb13vWUcFiJ5YA/219/1793986632/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/ostrosyuzhetnoe-hd.png",Остросюжетное HD
-https://tvcdnpotok.com/HGkAa5dkRwFUxe1hoyWcuQ/578/1793984910/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://telik.live/images/blockbaster_hd.png",Блокбастер HD
-https://tvcdnpotok.com/HVXGznbZzsDn6-OHJDkUfw/249/1793986475/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-megahit.png",viju Мегахит
-https://tvcdnpotok.com/RSIlMhSSzIZ-lEDLCBwJrw/141/1793985521/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy.png",viju Комедия
-https://tvcdnpotok.com/nx6rz_lqWFxs7NSzmO7d7Q/142/1793985700/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-premiere.png",viju Премиум
-https://tvcdnpotok.com/aMCNIiM4Op93-qw8FmBtIg/140/1793985726/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png",viju Экшен
-https://tvcdnpotok.com/r6Fdmwi-f-AP54Fd6W-3ww/138/1793985762/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png",viju TV1000
-https://tvcdnpotok.com/Z7Noks41eVKpevAZiOzzSg/137/1793985791/index.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png",HollywooD
