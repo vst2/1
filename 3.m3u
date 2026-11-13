@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",AMEDIA PREMIUM HD
 http://dmi3y-tv.online/hls/CH_AMEDIA_PREMIUMHD.m3u8
+
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",TV1000 ACTION HD
+http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
