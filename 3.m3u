@@ -3,3 +3,5 @@
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Шокирующее
 http://zabava-htlive.cdn.ngenix.net/hls/CH_shokiruyushchee/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Премиальное
+http://zabava-htlive.cdn.ngenix.net/hls/CH_premialnoe-hd/variant.m3u8
