@@ -121,4 +121,20 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udTzwzu.png",Match! Arena
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DogOkA4.png",Match! Boets (576p)
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5XWpF19.png",Match! Igra (720p)
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhyMb9D.png",Match! Planeta (576p)
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQPyHYK.png",Match! Premier (576p)
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X02s2UE.png",Match! Strana (720p)
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",Match! Ultra (1080p)
+http://31.148.5.241/kanal_3/index.m3u8
+
+
 
