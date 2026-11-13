@@ -1,14 +1,4 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Шокирующее
-http://zabava-htlive.cdn.ngenix.net/hls/CH_shokiruyushchee/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Премиальное
-http://zabava-htlive.cdn.ngenix.net/hls/CH_premialnoe-hd/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Scream
-http://zabava-htlive.cdn.ngenix.net/hls/CH_scream/variant.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Матч! Планета
-http://212.0.211.102:9999/play/a00b/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD
+http://dmi3y-tv.online/hls/CH_AMEDIA_PREMIUMHD.m3u8
