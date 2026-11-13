@@ -1,7 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",AMEDIA PREMIUM HD
-http://dmi3y-tv.online/hls/CH_AMEDIA_PREMIUMHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",TV1000 HD
 http://dmi3y-tv.online/hls/CH_TV1000HD.m3u8
