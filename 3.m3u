@@ -1,2 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 ,НТВ-Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
