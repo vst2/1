@@ -1,23 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",TV1000 HD
-http://dmi3y-tv.online/hls/CH_TV1000HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",TV1000 ACTION HD
-http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",КИНОПОКАЗ
-http://dmi3y-tv.online/hls/CH_KINOPOKAZ.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",CINEMA
-http://dmi3y-tv.online/hls/CH_CINEMA.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",HOLLYWOOD
-http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
