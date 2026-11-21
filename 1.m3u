@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/29ab556e301799f8f398d5650209f6ca.png",Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1
@@ -12,7 +12,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv.png",НТВ
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/f67b2ad5f738e35a9d77beb6e73889f3.png",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-serial.png",НТВ Сериал
@@ -40,25 +40,25 @@ https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3142.png",Рен ТВ
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/0bf1237e24a1360970dfef8696ea68eb.png",Рен ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/mir.png",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1870.png",СТС
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/de6bb407f44072d762f6987f90caac51.png",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1766.png",CTC LOVE
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/71310f54fde82cd9e608cd5edf817b0d.png",CTC LOVE
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3185.png",ТВ Центр HD
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/d6498e28c8bb1465f221fc43fd9d1e19.png",ТВ Центр HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1472.png",Пятый канал
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/30f8b6cfa17c0c401c8e48d9869ecdf1.png",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1820.png",Домашний
+#EXTINF:-1 tvg-logo="https://telik.live/images/ajaxsearch/85e8cb4a8925bb4e47bb09253af88a17.png",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv3-ru.png",ТВ3
