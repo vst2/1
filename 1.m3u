@@ -21,6 +21,12 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-xit.png",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
+#EXTINF:-1 ,НТВ-Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
