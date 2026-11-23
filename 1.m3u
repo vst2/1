@@ -73,6 +73,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч!
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-tv.png",Матч! Страна
+http://195.64.140.147:10099/99
+
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-eurosport.png",Eurosport 1 
 https://s7.iptv-24.net/1439/playlist.m3u8
@@ -101,7 +104,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Киноужас
+http://195.64.140.147:10043/43
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2359.png",FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
@@ -126,11 +130,9 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Киноужас
-http://195.64.140.147:10043/43
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Матч! Футбол Страна
-http://195.64.140.147:10099/99
+
+
 
 
 
