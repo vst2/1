@@ -129,7 +129,8 @@ https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Киноужас
 http://195.64.140.147:10043/43
 
-
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Матч! Футбол Страна
+http://195.64.140.147:10099/99
 
 
 
