@@ -109,7 +109,7 @@ http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 
 
 
-#EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/2na2.png",2x2
@@ -126,7 +126,8 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png",Киноужас
+http://195.64.140.147:10043/43
 
 
 
